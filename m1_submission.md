@@ -1,0 +1,38 @@
+<table><tr><td> <em>Assignment: </em> IT202-M1-GettingStarted</td></tr>
+<tr><td> <em>Student: </em> Meekat Hadi (mh82)</td></tr>
+<tr><td> <em>Generated: </em> 6/2/2024 6:21:54 PM</td></tr>
+<tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT202-102-S2024/it202-m1-gettingstarted/grade/mh82" target="_blank">Grading</a></td></tr></table>
+<table><tr><td> <em>Instructions: </em> <ol><li>Create a repository on github, use the format [ucid]-[course]-[section] as the repository name.</li><li>Make sure it's set to private</li><li>Go to Settings -&gt; Collaborators -&gt; Invite Collaborator -&gt; Search for my ID&nbsp;<strong>MattToegel</strong>&nbsp;and send an invite; if your section has a grader do the same for their github id<ol><li>Note: Once in a while the invite doesn't get created correctly and you'll need to resend it, keep an eye on the acceptance of the invite since this is required for further HW validations. A comment will be left on Canvas for the submission if the invite is missing at the time of grading).</li></ol></li><li>From the terminal / command line create a new branch called M1-GettingStarted</li><li>Create a README.md file and add it to the branch</li><li>Fill in some basic details:<ol><li>Course/Section</li><li>Your name (first is fine)</li><li>Brief info about yourself you'd like to share</li></ol></li><li>Hint after creating the file<ol><li><code>git add README.md</code></li><li><code>git commit -m "my readme file"</code></li><li><code>git push origin M1-GettingStarted</code></li><li>Create a pull request from this branch (via github.com)</li><li>Don't merge/close the pull request yet</li></ol></li><li>create a new file called M1_Submission.md (the content of this output will be inserted there)<ol><li>Once done, add, commit, push the submission md file, then you may merge the Pull Request</li></ol></li><li>Submit the direct link to this file from the master/main branch</li></ol></td></tr></table>
+<table><tr><td> <em>Deliverable 1: </em> IDE Setup Evidence </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<tr><td><table><tr><td> <em>Sub-Task 1: </em> Screenshot showing requested extensions installed</td></tr>
+<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-06-02T22.01.20wakatime.png.webp?alt=media&token=afc3cd00-3024-4783-adc6-3999c6ca168a"/></td></tr>
+<tr><td> <em>Caption:</em> <p>WakaTime installed <br></p>
+</td></tr>
+<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-06-02T22.01.38mysql.png.webp?alt=media&token=25e169f9-7479-4ada-8085-fa218f5123a2"/></td></tr>
+<tr><td> <em>Caption:</em> <p>MySQL extension installed<br></p>
+</td></tr>
+<tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-06-02T22.01.57php%20intellephense.png.webp?alt=media&token=47f5d5c9-00cf-4301-816c-07b5d90810ae"/></td></tr>
+<tr><td> <em>Caption:</em> <p>PHP Intellephense installed<br></p>
+</td></tr>
+</table></td></tr>
+</table></td></tr>
+<table><tr><td> <em>Deliverable 2: </em> Verify Database Creation/Connectivity </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<tr><td><table><tr><td> <em>Sub-Task 1: </em>  Screenshot showing your database from your IDE MySQL extension</td></tr>
+<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-06-02T22.03.38database%20info.png.webp?alt=media&token=20061593-f66e-4250-b319-2f444267e3ab"/></td></tr>
+<tr><td> <em>Caption:</em> <p>Database with UCID that is connected to IDE MySQL extension <br></p>
+</td></tr>
+</table></td></tr>
+</table></td></tr>
+<table><tr><td> <em>Deliverable 3: </em> Discussion </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<tr><td><table><tr><td> <em>Sub-Task 1: </em> Talk about what you learned during this module, anything interesting, new, etc.</td></tr>
+<tr><td> <em>Response:</em> <p>What I learned about this module was that I was able to create<br>my own database using my UCID and connect it from computer. I also<br>learned how to use github with the use of git by adding and<br>pushing files from my local machine to a global configuration that can be<br>shared with my professor.&nbsp;<br></p><br></td></tr>
+</table></td></tr>
+<table><tr><td> <em>Deliverable 4: </em> Issues </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<tr><td><table><tr><td> <em>Sub-Task 1: </em> Did you have any issues? If so, how did you resolve them? If no issues, just type "no issues".</td></tr>
+<tr><td> <em>Response:</em> <p>no issues<br></p><br></td></tr>
+</table></td></tr>
+<table><tr><td> <em>Deliverable 5: </em> Pull Request Link </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
+<tr><td><table><tr><td> <em>Sub-Task 1: </em> Add the pull request link here (it should end in /pull/#)</td></tr>
+<tr><td> <a rel="noreferrer noopener" target="_blank" href="https://github.com/ItsMeek23/mh82-IT202-451/pull/3">https://github.com/ItsMeek23/mh82-IT202-451/pull/3</a> </td></tr>
+</table></td></tr>
+<table><tr><td><em>Grading Link: </em><a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT202-102-S2024/it202-m1-gettingstarted/grade/mh82" target="_blank">Grading</a></td></tr></table>
