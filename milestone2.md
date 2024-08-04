@@ -1,11 +1,11 @@
 <table><tr><td> <em>Assignment: </em> IT202 Milestone 2 Shop Project</td></tr>
 <tr><td> <em>Student: </em> Meekat Hadi (mh82)</td></tr>
-<tr><td> <em>Generated: </em> 8/4/2024 2:18:40 AM</td></tr>
+<tr><td> <em>Generated: </em> 8/4/2024 2:22:28 AM</td></tr>
 <tr><td> <em>Grading Link: </em> <a rel="noreferrer noopener" href="https://learn.ethereallab.app/homework/IT202-AR451-M2024/it202-milestone-2-shop-project/grade/mh82" target="_blank">Grading</a></td></tr></table>
 <table><tr><td> <em>Instructions: </em> <ol><li>Checkout Milestone2 branch</li><li>Create a new markdown file called milestone2.md</li><li>git add/commit/push immediate</li><li>Fill in the below deliverables</li><li>At the end copy the markdown and paste it into milestone2.md</li><li>Add/commit/push the changes to Milestone2</li><li>PR Milestone2 to dev and verify</li><li>PR dev to prod and verify</li><li>Checkout dev locally and pull changes to get ready for Milestone 3</li><li>Submit the direct link to this new milestone2.md file from your GitHub prod branch to Canvas</li></ol><p>Note: Ensure all images appear properly on github and everywhere else. Images are only accepted from dev or prod, not local host. All website links must be from prod (you can assume/infer this by getting your dev URL and changing dev to prod).</p></td></tr></table>
 <table><tr><td> <em>Deliverable 1: </em> Users with admin or shop owner will be able to add products </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Add screenshot of admin create item page</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-08-02T19.31.10admin%20create%20item%20page.jpg.webp?alt=media&token=fd7cf841-690e-4719-a0a9-b0438087d3dd"/></td></tr>
+<tr><td><table><tr><td><img width="768px" src="https://firebasestorage.googleapis.com/v0/b/learn-e1de9.appspot.com/o/assignments%2Fmh82%2F2024-08-04T06.22.00admin%20create%20item%20page.jpg.webp?alt=media&token=721221a4-047e-4090-973c-2aa887bce2f7"/></td></tr>
 <tr><td> <em>Caption:</em> <p>Admin page of item creation screenshot with heroku URL<br></p>
 </td></tr>
 </table></td></tr>
